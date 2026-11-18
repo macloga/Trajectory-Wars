@@ -1,4 +1,5 @@
-# Unity generated
+
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,23 +7,24 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-MemoryCaptures/
-Recordings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
 
-# Visual Studio
+# IDE files
 .vs/
+.idea/
+.vscode/
 *.csproj
 *.sln
 *.suo
 *.user
-*.pidb
-*.booproj
+*.userprefs
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# Builds
+# Build outputs
 *.apk
 *.aab
-*.unitypackage
+*.app
+
+# Operating system files
+.DS_Store
+Thumbs.db
